@@ -1,0 +1,24 @@
+C:\Users\jcram\Downloads\DesarrolloWebII-main (2) 2\DesarrolloWebII-main\mvcProyectoWeb - 04 - Slider\mvcProyectoWeb.Models\bin\Debug\net8.0\mvcProyectoHotel.Models.deps.json
+C:\Users\jcram\Downloads\DesarrolloWebII-main (2) 2\DesarrolloWebII-main\mvcProyectoWeb - 04 - Slider\mvcProyectoWeb.Models\bin\Debug\net8.0\mvcProyectoHotel.Models.dll
+C:\Users\jcram\Downloads\DesarrolloWebII-main (2) 2\DesarrolloWebII-main\mvcProyectoWeb - 04 - Slider\mvcProyectoWeb.Models\bin\Debug\net8.0\mvcProyectoHotel.Models.pdb
+C:\Users\jcram\Downloads\DesarrolloWebII-main (2) 2\DesarrolloWebII-main\mvcProyectoWeb - 04 - Slider\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoHotel.Models.csproj.AssemblyReference.cache
+C:\Users\jcram\Downloads\DesarrolloWebII-main (2) 2\DesarrolloWebII-main\mvcProyectoWeb - 04 - Slider\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoHotel.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcram\Downloads\DesarrolloWebII-main (2) 2\DesarrolloWebII-main\mvcProyectoWeb - 04 - Slider\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoHotel.Models.AssemblyInfoInputs.cache
+C:\Users\jcram\Downloads\DesarrolloWebII-main (2) 2\DesarrolloWebII-main\mvcProyectoWeb - 04 - Slider\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoHotel.Models.AssemblyInfo.cs
+C:\Users\jcram\Downloads\DesarrolloWebII-main (2) 2\DesarrolloWebII-main\mvcProyectoWeb - 04 - Slider\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoHotel.Models.csproj.CoreCompileInputs.cache
+C:\Users\jcram\Downloads\DesarrolloWebII-main (2) 2\DesarrolloWebII-main\mvcProyectoWeb - 04 - Slider\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoHotel.Models.dll
+C:\Users\jcram\Downloads\DesarrolloWebII-main (2) 2\DesarrolloWebII-main\mvcProyectoWeb - 04 - Slider\mvcProyectoWeb.Models\obj\Debug\net8.0\refint\mvcProyectoHotel.Models.dll
+C:\Users\jcram\Downloads\DesarrolloWebII-main (2) 2\DesarrolloWebII-main\mvcProyectoWeb - 04 - Slider\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoHotel.Models.pdb
+C:\Users\jcram\Downloads\DesarrolloWebII-main (2) 2\DesarrolloWebII-main\mvcProyectoWeb - 04 - Slider\mvcProyectoWeb.Models\obj\Debug\net8.0\ref\mvcProyectoHotel.Models.dll
+C:\Proyecto\Proyecto\mvcProyectoWeb.Models\bin\Debug\net8.0\mvcProyectoHotel.Models.deps.json
+C:\Proyecto\Proyecto\mvcProyectoWeb.Models\bin\Debug\net8.0\mvcProyectoHotel.Models.dll
+C:\Proyecto\Proyecto\mvcProyectoWeb.Models\bin\Debug\net8.0\mvcProyectoHotel.Models.pdb
+C:\Proyecto\Proyecto\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoHotel.Models.csproj.AssemblyReference.cache
+C:\Proyecto\Proyecto\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoHotel.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyecto\Proyecto\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoHotel.Models.AssemblyInfoInputs.cache
+C:\Proyecto\Proyecto\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoHotel.Models.AssemblyInfo.cs
+C:\Proyecto\Proyecto\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoHotel.Models.csproj.CoreCompileInputs.cache
+C:\Proyecto\Proyecto\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoHotel.Models.dll
+C:\Proyecto\Proyecto\mvcProyectoWeb.Models\obj\Debug\net8.0\refint\mvcProyectoHotel.Models.dll
+C:\Proyecto\Proyecto\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoHotel.Models.pdb
+C:\Proyecto\Proyecto\mvcProyectoWeb.Models\obj\Debug\net8.0\ref\mvcProyectoHotel.Models.dll

@@ -1,0 +1,22 @@
+C:\Users\jcram\Downloads\DesarrolloWebII-main (2) 2\DesarrolloWebII-main\mvcProyectoWeb - 04 - Slider\mvcProyectoWeb.Utilidades\bin\Debug\net8.0\mvcProyectoWeb.Utilidades.deps.json
+C:\Users\jcram\Downloads\DesarrolloWebII-main (2) 2\DesarrolloWebII-main\mvcProyectoWeb - 04 - Slider\mvcProyectoWeb.Utilidades\bin\Debug\net8.0\mvcProyectoWeb.Utilidades.dll
+C:\Users\jcram\Downloads\DesarrolloWebII-main (2) 2\DesarrolloWebII-main\mvcProyectoWeb - 04 - Slider\mvcProyectoWeb.Utilidades\bin\Debug\net8.0\mvcProyectoWeb.Utilidades.pdb
+C:\Users\jcram\Downloads\DesarrolloWebII-main (2) 2\DesarrolloWebII-main\mvcProyectoWeb - 04 - Slider\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcram\Downloads\DesarrolloWebII-main (2) 2\DesarrolloWebII-main\mvcProyectoWeb - 04 - Slider\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.AssemblyInfoInputs.cache
+C:\Users\jcram\Downloads\DesarrolloWebII-main (2) 2\DesarrolloWebII-main\mvcProyectoWeb - 04 - Slider\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.AssemblyInfo.cs
+C:\Users\jcram\Downloads\DesarrolloWebII-main (2) 2\DesarrolloWebII-main\mvcProyectoWeb - 04 - Slider\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\jcram\Downloads\DesarrolloWebII-main (2) 2\DesarrolloWebII-main\mvcProyectoWeb - 04 - Slider\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.dll
+C:\Users\jcram\Downloads\DesarrolloWebII-main (2) 2\DesarrolloWebII-main\mvcProyectoWeb - 04 - Slider\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\refint\mvcProyectoWeb.Utilidades.dll
+C:\Users\jcram\Downloads\DesarrolloWebII-main (2) 2\DesarrolloWebII-main\mvcProyectoWeb - 04 - Slider\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.pdb
+C:\Users\jcram\Downloads\DesarrolloWebII-main (2) 2\DesarrolloWebII-main\mvcProyectoWeb - 04 - Slider\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\ref\mvcProyectoWeb.Utilidades.dll
+C:\Proyecto\Proyecto\mvcProyectoWeb.Utilidades\bin\Debug\net8.0\mvcProyectoWeb.Utilidades.deps.json
+C:\Proyecto\Proyecto\mvcProyectoWeb.Utilidades\bin\Debug\net8.0\mvcProyectoWeb.Utilidades.dll
+C:\Proyecto\Proyecto\mvcProyectoWeb.Utilidades\bin\Debug\net8.0\mvcProyectoWeb.Utilidades.pdb
+C:\Proyecto\Proyecto\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyecto\Proyecto\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.AssemblyInfoInputs.cache
+C:\Proyecto\Proyecto\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.AssemblyInfo.cs
+C:\Proyecto\Proyecto\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.csproj.CoreCompileInputs.cache
+C:\Proyecto\Proyecto\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.dll
+C:\Proyecto\Proyecto\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\refint\mvcProyectoWeb.Utilidades.dll
+C:\Proyecto\Proyecto\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.pdb
+C:\Proyecto\Proyecto\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\ref\mvcProyectoWeb.Utilidades.dll
